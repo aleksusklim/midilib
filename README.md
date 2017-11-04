@@ -4,7 +4,7 @@ The project is stored in [project/midilib.dpr](./project/midilib.dpr).
 
 ## Download:
 
-- _(no other versions)_
+- _(no stable version currently)_
 
 ## Old releases:
 
